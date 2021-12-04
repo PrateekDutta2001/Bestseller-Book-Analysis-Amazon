@@ -8,6 +8,8 @@ A bestseller is a book or other media noted for its top selling status, with bes
 
 Into this project, I have choosen Amazon's Best Seller books data for my analysis purpose which contains data in .csv format between the year 2009-2019. I have downloaded the dataset from web Public source. 
 
+Dataset Size:- 550 x 7 [rows x column] (50kb)
+
 ![image](https://user-images.githubusercontent.com/62097113/144714448-68a05ca2-b57f-42de-83d2-a9d5ed2edd6e.png)
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. The four types of EDA are univariate non-graphical, multivariate non- graphical, univariate graphical, and multivariate graphical.
