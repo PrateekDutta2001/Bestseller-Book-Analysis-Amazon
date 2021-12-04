@@ -31,3 +31,13 @@ Following things are steps performed on EDA :
 ![image](https://user-images.githubusercontent.com/62097113/144714518-105cb641-8e71-4b2c-9d71-8eec70468293.png)
 
 Conclusion: Fiction books are at average cheaper than non fiction books.
+
+**Other Detail:**
+
+This project has been developed by Prateek Duttta for the purpose of institutional project.
+
+Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail at (dutta_prateek.ai@ghrce.raisoni.net) by mentioning the designation and current role with proper identity card in attachment.
+
+For project Collaboration, contact my mentioning suitable details with resume attachment.
+
+Thank You, Have a Nice Day!
