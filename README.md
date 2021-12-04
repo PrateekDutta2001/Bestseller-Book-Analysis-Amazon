@@ -14,6 +14,20 @@ Exploratory data analysis (EDA) is used by data scientists to analyze and invest
 
 ![image](https://user-images.githubusercontent.com/62097113/144714505-2cf6e879-561c-4933-8793-1304f80d6be6.png)
 
+Following things are steps performed on EDA :
+
+-> Get maximum insights from a data set.
+
+-> Uncover underlying structure.
+
+-> Extract important variables from the dataset.
+
+-> Detect outliers and anomalies(if any)
+
+-> Test underlying assumptions.
+
+-> Determine the optimal factor settings.
+
 ![image](https://user-images.githubusercontent.com/62097113/144714518-105cb641-8e71-4b2c-9d71-8eec70468293.png)
 
 Conclusion: Fiction books are at average cheaper than non fiction books.
