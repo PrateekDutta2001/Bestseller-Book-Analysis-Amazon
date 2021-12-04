@@ -32,6 +32,22 @@ Following things are steps performed on EDA :
 
 ![image](https://user-images.githubusercontent.com/62097113/144714518-105cb641-8e71-4b2c-9d71-8eec70468293.png)
 
+**Dataset Feature:**
+
+-> Name
+
+-> Author
+
+-> User Rating
+
+-> Reviews
+
+-> Price 
+
+-> Year
+
+-> Genre
+
 Conclusion: Fiction books are at average cheaper than non fiction books.
 
 **Other Detail:**
